@@ -5,7 +5,7 @@ Iniciativa: Intelligence Global
 Projeto: ATCS Framework
 Natureza: Proposta arquitetural original em desenvolvimento
 Versão: Documento fundador 26/40
-
+Link https://atcsframework.lovable.app
 Resumo
 
 A evolução tecnológica não depende exclusivamente da criação de modelos de inteligência artificial mais avançados. Também depende da maneira como a inteligência é organizada, integrada, controlada e aplicada dentro de sistemas computacionais.
